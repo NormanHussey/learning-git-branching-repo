@@ -11,3 +11,16 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 h2 {
     color: red;
 }
+
+h1 {
+    color: antiquewhite;
+    background-color: teal;
+}
+
+main {
+    background-color: peachpuff;
+}
+
+footer {
+    background-color: rosybrown;
+}
